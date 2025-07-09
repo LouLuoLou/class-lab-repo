@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Juan Reyes 
+- Certification: Meta Backend Engineer Coursera Course
 
 ## Instructions
 Please replace the placeholders with your details:
